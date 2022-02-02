@@ -1,0 +1,24 @@
+//write A Program Which Accepts Number From User And Print Even Factors Of That Numbeer.
+
+#include<stdio.h>
+
+
+void display(int ivalue)
+{
+  int i=0;
+  if(ivalue<0)
+  {
+    ino=-ino;
+  }
+  for(i=1;)
+int main()
+{
+  int num=0
+
+  printf("Enter the number:");
+  scanf("%d",&num);
+  
+  display(num);
+
+  return 0;
+}
